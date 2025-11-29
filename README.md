@@ -17,5 +17,4 @@ gcc src/smart_vehicle_tracker.c -o tracker
 ./tracker
 
 
-<img width="1914" height="905" alt="image" src="https://github.com/user-attachments/assets/4e395d98-f300-44cf-9f94-d9b6da4bd713" />
 <img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/09645114-04f4-42fd-a9f7-80fbcc8f14fd" />
