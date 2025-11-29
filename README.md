@@ -12,8 +12,7 @@ A C-based application to track fleet vehicle maintenance, predict next service, 
 - Dynamic memory allocation using pointers
 - Fully modular design
 
-## How to Compile
-```bash
+## How to Compile 
 gcc src/smart_vehicle_tracker.c -o tracker
 ./tracker
 
